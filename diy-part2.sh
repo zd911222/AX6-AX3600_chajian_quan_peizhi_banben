@@ -36,4 +36,5 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 #iptv
 #git clone https://github.com/riverscn/openwrt-iptvhelper/tree/master/luci-app-iptvhelper /package/openwrt-iptvhelper
 #git clone https://github.com/openwrt/luci/tree/master/applications/luci-app-omcproxy /package/luci-app-omcproxy
+git clone  https://github.com/riverscn/openwrt-iptvhelper.git package/iptvhelper
 
